@@ -34,5 +34,5 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 --- ---
 
 <p align="center">
-    with :heart: <a href="https://bycedric.com" target="_blank">byCedric</a>
+    with :heart: <a href="https://bycedric.com" target="_blank">byCedric</a>, <a href="https://alexanderharenstam.se" target="_blank">alhase9320</a>
 </p>

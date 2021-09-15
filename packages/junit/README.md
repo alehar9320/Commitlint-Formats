@@ -49,6 +49,14 @@ To keep the project healthy and running smoothly, a couple of rules are defined.
 
 Make something awesome!
 
+## Use cases
+
+Below we list identified use cases for the packages.
+
+### Test reporting in pipelines | Bitbucket
+
+The JUnit format is useful in [Bitbucket Pipelines reports](https://support.atlassian.com/bitbucket-cloud/docs/test-reporting-in-pipelines/).
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
@@ -56,5 +64,5 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 --- ---
 
 <p align="center">
-    with :heart: <a href="https://bycedric.com" target="_blank">byCedric</a>
+    with :heart: <a href="https://bycedric.com" target="_blank">byCedric</a>, <a href="https://alexanderharenstam.se" target="_blank">alhase9320</a>
 </p>
